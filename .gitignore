@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Databases
+*.db
+
+# Auto-generated ML artifacts
+active_learning_cache/
+models/
+nlu_datasets/
+split_datasets/

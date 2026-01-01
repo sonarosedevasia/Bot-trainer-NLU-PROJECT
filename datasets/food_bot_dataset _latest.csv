@@ -1,0 +1,201 @@
+sentence,intent,entity
+Any vegetarian restaurants near my location?,find_restaurant,place=restaurant
+Find a sushi restaurant close to me,find_restaurant,place=restaurant
+How long will delivery take?,track_order,
+Do you have vegan dishes?,show_menu,
+What are the delivery charges?,check_price,
+Show me the dessert options,show_menu,
+What are the delivery charges?,check_price,
+Is delivery free?,check_price,
+What’s the price of chicken biryani?,check_price,food_item=biryani
+How long will delivery take?,track_order,
+Can I get home delivery from Domino’s?,order_food,
+Please deliver one masala dosa,order_food,
+List all available pizzas,show_menu,food_item=pizza
+Show me non-vegetarian dishes,show_menu,
+Suggest something spicy,recommend_food,
+Order a chocolate cake for tonight,order_food,order_status
+Is there a special offer today?,check_price,
+Any vegetarian restaurants near my location?,find_restaurant,place=restaurant
+Do you charge for extra toppings?,check_price,
+I want to order a pizza,order_food,food_item=pizza
+Order some fried rice and noodles,order_food,order_status
+I want to order a pizza,order_food,food_item=pizza
+Suggest a dessert after lunch,recommend_food,
+I want to order a pizza,order_food,food_item=pizza
+List all available pizzas,show_menu,food_item=pizza
+Do you charge for extra toppings?,check_price,
+Suggest a dessert after lunch,recommend_food,
+What are the delivery charges?,check_price,
+I’m looking for a Chinese restaurant,find_restaurant,place=restaurant
+I’m looking for a Chinese restaurant,find_restaurant,place=restaurant
+Suggest a dessert after lunch,recommend_food,
+Suggest something spicy,recommend_food,
+Please deliver one masala dosa,order_food,
+Can I get a burger and fries delivered?,order_food,food_item=burger
+Where can I eat Italian food?,find_restaurant,
+Any vegetarian restaurants near my location?,find_restaurant,place=restaurant
+How expensive is a buffet lunch?,check_price,
+Where can I get breakfast near me?,find_restaurant,
+Change the address for my order,track_order,order_status
+Is my order on the way?,track_order,order_status
+Find a sushi restaurant close to me,find_restaurant,place=restaurant
+Show me your specials,show_menu,
+Locate a nearby dessert shop,find_restaurant,
+Do you charge for extra toppings?,check_price,
+Cancel my dessert order,track_order,order_status
+Update my order status,track_order,order_status
+I want to order a pizza,order_food,food_item=pizza
+Please deliver one masala dosa,order_food,
+Order two chicken biryanis for me,order_food,food_item=biryani
+Suggest something spicy,recommend_food,
+I want to order a pizza,order_food,food_item=pizza
+I want to order a pizza,order_food,food_item=pizza
+Find me a good restaurant nearby,find_restaurant,place=restaurant
+Suggest a dessert after lunch,recommend_food,
+I’m looking for a Chinese restaurant,find_restaurant,place=restaurant
+Recommend something light for dinner,recommend_food,
+Can I get the beverages list?,show_menu,
+Can I see the menu for Café Coffee Day?,show_menu,drink=coffee
+Any recommendations for seafood lovers?,recommend_food,
+What’s popular today?,recommend_food,
+Give me a drink suggestion,recommend_food,
+What’s the best dish here?,recommend_food,
+Order a chocolate cake for tonight,order_food,order_status
+Show me non-vegetarian dishes,show_menu,
+Add one cold coffee and a sandwich to my cart,order_food,drink=coffee
+Suggest some cheap places to eat in Kochi,find_restaurant,
+What’s on the menu today?,show_menu,
+How much for one coffee and a sandwich?,check_price,drink=coffee
+I’m looking for a Chinese restaurant,find_restaurant,place=restaurant
+How long will delivery take?,track_order,
+Is my order on the way?,track_order,order_status
+I’m looking for a Chinese restaurant,find_restaurant,place=restaurant
+What are the delivery charges?,check_price,
+Show me the dessert options,show_menu,
+Place an order for butter naan and paneer curry,order_food,order_status
+I’m looking for a Chinese restaurant,find_restaurant,place=restaurant
+Is delivery free?,check_price,
+Give me a drink suggestion,recommend_food,
+How much does a burger cost?,check_price,food_item=burger
+I want to order a pizza,order_food,food_item=pizza
+Please deliver one masala dosa,order_food,
+Can I get a burger and fries delivered?,order_food,food_item=burger
+Where can I eat Italian food?,find_restaurant,
+I want to order a pizza,order_food,food_item=pizza
+Find a sushi restaurant close to me,find_restaurant,place=restaurant
+Suggest something spicy,recommend_food,
+List all available pizzas,show_menu,food_item=pizza
+Suggest something spicy,recommend_food,
+Update my order status,track_order,order_status
+Order a chocolate cake for tonight,order_food,order_status
+Where’s my order?,track_order,order_status
+Change the address for my order,track_order,order_status
+Order a chocolate cake for tonight,order_food,order_status
+What drinks are available?,show_menu,
+Is my order on the way?,track_order,order_status
+Recommend a healthy breakfast,recommend_food,
+Tell me the cost of a pizza combo,check_price,food_item=pizza
+When will my food be delivered?,track_order,
+Is my order on the way?,track_order,order_status
+Can I cancel my order?,track_order,order_status
+What’s on the menu today?,show_menu,
+Any vegetarian restaurants near my location?,find_restaurant,place=restaurant
+I’m craving something sweet — any ideas?,recommend_food,
+List all available pizzas,show_menu,food_item=pizza
+Can I get the beverages list?,show_menu,
+Order a chocolate cake for tonight,order_food,order_status
+Change the address for my order,track_order,order_status
+I want to order a pizza,order_food,food_item=pizza
+Can I cancel my order?,track_order,order_status
+Place an order for butter naan and paneer curry,order_food,order_status
+Suggest a dessert after lunch,recommend_food,
+I’m craving something sweet — any ideas?,recommend_food,
+Track my pizza order,track_order,food_item=pizza
+My order hasn’t arrived yet,track_order,order_status
+Show me top-rated cafes around me,find_restaurant,
+Please deliver one masala dosa,order_food,
+How long will delivery take?,track_order,
+Give me a drink suggestion,recommend_food,
+How long will delivery take?,track_order,
+List all available pizzas,show_menu,food_item=pizza
+When will my food be delivered?,track_order,
+I’d like to get lunch delivered to my office,order_food,
+Order a chocolate cake for tonight,order_food,order_status
+Is my order on the way?,track_order,order_status
+Give me a drink suggestion,recommend_food,
+Show me the dessert options,show_menu,
+List all available pizzas,show_menu,food_item=pizza
+When will my food be delivered?,track_order,
+Can I cancel my order?,track_order,order_status
+How long will delivery take?,track_order,
+Show me top-rated cafes around me,find_restaurant,
+Can I get a burger and fries delivered?,order_food,food_item=burger
+What’s the price of chicken biryani?,check_price,food_item=biryani
+Cancel my dessert order,track_order,order_status
+Is my order on the way?,track_order,order_status
+List all available pizzas,show_menu,food_item=pizza
+I’m craving something sweet — any ideas?,recommend_food,
+Do you charge for extra toppings?,check_price,
+How expensive is a buffet lunch?,check_price,
+Any vegetarian restaurants near my location?,find_restaurant,place=restaurant
+Is there a special offer today?,check_price,
+Show me the dessert options,show_menu,
+Any vegetarian restaurants near my location?,find_restaurant,place=restaurant
+When will my food be delivered?,track_order,
+How long will delivery take?,track_order,
+Where can I eat Italian food?,find_restaurant,
+Can I get the beverages list?,show_menu,
+What’s popular today?,recommend_food,
+Is my order on the way?,track_order,order_status
+Find a sushi restaurant close to me,find_restaurant,place=restaurant
+Give me a drink suggestion,recommend_food,
+Where can I eat Italian food?,find_restaurant,
+Can I see the menu for Café Coffee Day?,show_menu,drink=coffee
+Order a chocolate cake for tonight,order_food,order_status
+I’m looking for a Chinese restaurant,find_restaurant,place=restaurant
+Update my order status,track_order,order_status
+Order a chocolate cake for tonight,order_food,order_status
+I’m looking for a Chinese restaurant,find_restaurant,place=restaurant
+Find me a good restaurant nearby,find_restaurant,place=restaurant
+Please deliver one masala dosa,order_food,
+I want to order a pizza,order_food,food_item=pizza
+How long will delivery take?,track_order,
+Please deliver one masala dosa,order_food,
+Order two chicken biryanis for me,order_food,food_item=biryani
+Show me non-vegetarian dishes,show_menu,
+What are the delivery charges?,check_price,
+What’s popular today?,recommend_food,
+What’s on the menu today?,show_menu,
+Find a sushi restaurant close to me,find_restaurant,place=restaurant
+How long will delivery take?,track_order,
+Can I see the menu for Café Coffee Day?,show_menu,drink=coffee
+Where can I eat Italian food?,find_restaurant,
+Order two chicken biryanis for me,order_food,food_item=biryani
+I want to order a pizza,order_food,food_item=pizza
+Track my pizza order,track_order,food_item=pizza
+Can I get home delivery from Domino’s?,order_food,
+Are there any pizza places open now?,find_restaurant,food_item=pizza
+Suggest something spicy,recommend_food,
+Show me non-vegetarian dishes,show_menu,
+Where’s my order?,track_order,order_status
+Show me the dessert options,show_menu,
+Order two chicken biryanis for me,order_food,food_item=biryani
+List all available pizzas,show_menu,food_item=pizza
+Cancel my dessert order,track_order,order_status
+What should I eat for dinner?,recommend_food,
+I’m looking for a Chinese restaurant,find_restaurant,place=restaurant
+What are the delivery charges?,check_price,
+Display the breakfast menu,show_menu,
+How long will delivery take?,track_order,
+Do you have any discounts?,check_price,
+When will my food be delivered?,track_order,
+Where’s my order?,track_order,order_status
+Can I get home delivery from Domino’s?,order_food,
+Track my pizza order,track_order,food_item=pizza
+Find a sushi restaurant close to me,find_restaurant,place=restaurant
+What’s popular today?,recommend_food,
+When will my food be delivered?,track_order,
+Give me a drink suggestion,recommend_food,
+My order hasn’t arrived yet,track_order,order_status
+Can I get home delivery from Domino’s?,order_food,
